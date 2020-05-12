@@ -1,3 +1,3 @@
 <?php
-echo '<p>This is my first sample Project</p>';
+echo '<p>This is my first sample Project. I will edit it</p>';
 ?>
